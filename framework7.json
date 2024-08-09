@@ -1,0 +1,18 @@
+{
+  "cwd": "/home/franciny/proyecto-simple",
+  "type": [
+    "web"
+  ],
+  "name": "simple-framework7",
+  "framework": "vue",
+  "template": "tabs",
+  "cssPreProcessor": "scss",
+  "bundler": "vite",
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkMode": false,
+    "iconFonts": true
+  },
+  "customBuild": false
+}
